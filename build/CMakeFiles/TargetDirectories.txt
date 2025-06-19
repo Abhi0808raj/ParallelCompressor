@@ -1,5 +1,0 @@
-/media/abhi0808raj/New Volume1/Coding/Projects/ParallelCompressor/build/CMakeFiles/ParallelCompressor.dir
-/media/abhi0808raj/New Volume1/Coding/Projects/ParallelCompressor/build/CMakeFiles/edit_cache.dir
-/media/abhi0808raj/New Volume1/Coding/Projects/ParallelCompressor/build/CMakeFiles/rebuild_cache.dir
-/media/abhi0808raj/New Volume1/Coding/Projects/ParallelCompressor/build/CMakeFiles/ParallelCompressor_autogen_timestamp_deps.dir
-/media/abhi0808raj/New Volume1/Coding/Projects/ParallelCompressor/build/CMakeFiles/ParallelCompressor_autogen.dir
