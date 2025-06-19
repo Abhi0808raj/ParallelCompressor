@@ -24,7 +24,7 @@ set(SOURCES
 set(HEADERS
     src/MainWindow.h
     src/CompressionWorker.h
-    # Add other header files here if needed
+    src/ThreadSafeQueue.h
 )
 
 # Add executable
