@@ -30,6 +30,7 @@ set(HEADERS
 # Add executable
 add_executable(ParallelCompressor ${SOURCES} ${HEADERS})
 
+
 # Include directories (if you have extra includes)
 target_include_directories(ParallelCompressor PRIVATE src)
 

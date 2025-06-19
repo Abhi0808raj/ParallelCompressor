@@ -1,0 +1,16 @@
+# Ignore CMake build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Ignore compiled binaries
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+*.user
+.idea/
